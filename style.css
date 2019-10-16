@@ -1,0 +1,69 @@
+/*
+Theme Name: Jargon: 5
+Theme URI:  
+Author: James Foley
+Author URI: https://www.dominait.me
+Description:   Creating A Custom Post Type With Code
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI:  
+Text Domain: jargon
+Tags: Custom Post Types In WordPress
+*/
+
+body {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+/* 
+---------------------------------------------------------------------------------------
+  TYPEOGRAPHY
+-------------------------------------------------------------------------------------
+*/
+
+/* 
+---------------------------------------------------------------------------------------
+MAIN SITE NAVIGATION
+-------------------------------------------------------------------------------------
+*/
+.site-nav {
+  box-shadow: 0 0 5px 0 grey;
+  padding: 0.5rem 1rem;
+  position: relative;
+  color: #bfbfbf;
+}
+
+.icon-view {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+
+.mobile-menu-icon {
+  width: 1.5rem;
+}
+
+/* 
+---------------------------------------------------------------------------------------
+MAIN PAGE HEADER
+-------------------------------------------------------------------------------------
+*/
+.main-page-header {
+  background: tomato;
+  color: white;
+  text-align: center;
+  padding: 10rem 0;
+}
+.logo {
+  width: calc(3rem + 5vh);
+  max-width: 250px;
+}
+.title {
+  font-size: calc(3rem + 2vmin);
+}
+.tagline {
+  font-size: calc(1.5rem + 1vw);
+}
