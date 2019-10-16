@@ -1,5 +1,7 @@
 <?php get_header(); ?>
 <main>
-  The Front Page Template
+  <a href="ttp://www.webinstitutoratwork.com/labthree/movies/hancock/">
+  Article
+  </a>
 </main>
 <?php get_footer(); ?>
