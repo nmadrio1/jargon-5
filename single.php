@@ -6,10 +6,10 @@
 		<?php while ( have_posts() ) : the_post();?>
 		<div class="post-container">
 		    <header class="post-header">
-				<h2 class="post-title"><?php echo the_title(); ?><h2>
+				<h2 class="post-title"><?php the_title(); ?><h2>
 			</header>
 			<div class="post-content">
-				<?php  echo the_content(); ?>
+				<?php  the_content(); ?>
 			</div>
 		</div>
 
