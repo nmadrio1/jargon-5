@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <main>
-  <a href="ttp://www.webinstitutoratwork.com/labthree/movies/hancock/">
+  <a href="http://www.webinstitutoratwork.com/labthree/movies/hancock/">
   Article
   </a>
 </main>
